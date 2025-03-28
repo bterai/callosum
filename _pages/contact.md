@@ -2,7 +2,6 @@
 title: "Contact Us"
 permalink: /contact/
 author_profile: false
-classes: wide
 ---
 
 We’re excited to learn about your project or answer any questions you may have.
